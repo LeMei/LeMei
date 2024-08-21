@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Multimodal Affective Computing, Multimodal Learning
+- 🌱 I’m currently learning Alignment ...
+- 👯 I’m looking to collaborate on Research Paper
+- 📫 How to reach me: rice.hu.x@gmail.com
+
 <!--
 **LeMei/LeMei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
