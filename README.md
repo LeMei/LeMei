@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am Guimin Hu
 
 - 🔭 I’m currently working on Multimodal Affective Computing, Multimodal Learning
 - 🌱 I’m currently learning Alignment ...
