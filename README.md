@@ -1,4 +1,4 @@
-## Hi there 👋 I am Guimin Hu 😃, a Postdoc 🌈
+## Hi there 👋 I am Guimin Hu 😃, a Postdoc 🏝
 
 - 🔭 I’m currently working on Multimodal Affective Computing, Multimodal Learning
 - 🥑 I’m interested in Multimodal Pretrained Model
