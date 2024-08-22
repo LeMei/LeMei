@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Multimodal Affective Computing, Multimodal Learning
 - 🥑 I’m interested in Multimodal Pretrained Model
 - 🌱 I’m currently learning Alignment ...
-- 👯 I’m looking to collaborate on Research Paper
+- 👯 I’m looking to collaborate on Alignment, Multimodal Affective Computing
 - 📫 How to reach me: rice.hu.x@gmail.com
 
 <!--
