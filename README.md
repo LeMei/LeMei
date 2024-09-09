@@ -4,7 +4,7 @@
 - 🥑 I’m interested in Multimodal Pretrained Model
 - 🌱 I’m currently learning Alignment ...
 - 👯 I’m looking to collaborate on Alignment, Multimodal Affective Computing
-- 📫 How to reach me: rice.hu.x@gmail.com
+- 📫 How to reach me: rice.hu.x@gmail.com or guhu@di.ku.dk
 
 <!--
 **LeMei/LeMei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
