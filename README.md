@@ -4,6 +4,7 @@
 - 🥑 I’m interested in Multimodal Pretrained Model
 - 🌱 I’m currently learning Alignment ...
 - 👯 I’m looking to collaborate on Alignment, Multimodal Affective Computing
+- 👋 I have some ideas related to sentiment and emotion-focused work and would love the opportunity to collaborate with you!
 - 📫 How to reach me: rice.hu.x@gmail.com or guhu@di.ku.dk
 
 <!--
