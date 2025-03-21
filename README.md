@@ -1,10 +1,9 @@
 ## Hi there 👋 I am Guimin Hu 😃, a Postdoc 🏝
 
 - 🔭 I’m currently working on Multimodal Affective Computing, Multimodal Learning
-- 🥑 I’m interested in Multimodal Pretrained Model
+- 🥑 I’m interested in Hallucination in Multi-Modal Large Language and MoE-based model
 - 🌱 I’m currently learning Alignment ...
-- 👯 I’m looking to collaborate on Alignment, Multimodal Affective Computing
-- 👋 I have some ideas related to sentiment and emotion-focused work and would love the opportunity to collaborate with you!
+- 👯 I’m looking to collaborate on Alignment, Multimodal Learning, Hallucination in Multi-Modal Large Language
 - 📫 How to reach me: rice.hu.x@gmail.com or guhu@di.ku.dk
 
 <!--
