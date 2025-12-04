@@ -1,4 +1,4 @@
-## Hi there 👋 I am Guimin Hu 😃, a Postdoc 🏝
+## Hi there 👋 I am Guimin Hu 😃
 
 - 🔭 I’m currently working on Multimodal Learning, MoE-based LLMs and Emotion Recognition
 - 🥑 I’m interested in Hallucination in Multi-Modal Large Language and MoE-based LLMs
