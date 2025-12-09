@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Guimin Hu 😃
 
-- 🔭 I’m currently working on Multimodal Learning, MoE-based LLMs and Emotion Recognition
+- 🔭 I’m currently working on Haptic Understanding (e.g., Haptic Captioning task)
 - 🥑 I’m interested in Hallucination in Multi-Modal Large Language and MoE-based LLMs
 - 🌱 I’m currently learning Alignment ...
 - 👯 I’m looking to collaborate on Alignment, Multimodal Learning, Hallucination in Multi-Modal Large Language
@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![LeMei's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeMei&show_icons=true)
