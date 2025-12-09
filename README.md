@@ -1,8 +1,7 @@
 ## Hi there 👋 I am Guimin Hu 😃
 
 - 🔭 I’m currently working on Haptic Understanding (e.g., Haptic Captioning task)
-- 🥑 I’m interested in Hallucination in Multi-Modal Large Language and MoE-based LLMs
-- 🌱 I’m currently learning Alignment ...
+- 🥑 I’m interested in MoE-based LLMs, VLA model and Hallucination in Multi-Modal Large Language.
 - 👯 I’m looking to collaborate on Alignment, Multimodal Learning, Hallucination in Multi-Modal Large Language
 - 📫 How to reach me: rice.hu.x@gmail.com or guhu@di.ku.dk
 
