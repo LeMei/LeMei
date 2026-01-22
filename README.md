@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Haptic Understanding (e.g., Haptic Captioning task)
 - 🥑 I’m interested in MoE-based LLMs, VLA model and Hallucination in Multi-Modal Large Language.
 - 👯 I’m looking to collaborate on Alignment, Multimodal Learning, Hallucination in Multi-Modal Large Language
-- 📫 How to reach me: rice.hu.x@gmail.com or guhu@di.ku.dk
+- 📫 How to reach me: rice.hu.x@gmail.com
 
 <!--
 **LeMei/LeMei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
